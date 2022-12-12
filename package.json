@@ -10,7 +10,7 @@
   "dependencies": {
     "async": "^3.2.0",
     "couchbase": "^2.6.11",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "node-rsa": "^1.0.8",
     "nodemailer": "^6.4.6",
